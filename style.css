@@ -5,15 +5,18 @@
  }
 .kartu-profil {
  width: 300px;
- margin: 50px auto; /" 50px jarak atas /Bawah,auto menengahkan kiri/kanan "/
+ margin: 50px auto; /* 50px jarak atas /Bawah,auto menengahkan kiri/kanan */
  padding: 20px;
  background-color: white;
- border-rasdius: 15px; /" membuat sudut menjadi selngkung "/
- box-shodow: 0 4px 8px rgba(0,0,0,1) /" efek bayangan"/
+ border-rasdius: 15px; /* membuat sudut menjadi selngkung */
+ box-shodow: 0 4px 8px rgba(0,0,0,1) /* efek bayangan */
  text-align: center;
 }
 .kartu-profil img {
   width: 40px;
-  border-radius: 40%; /" Trik untuk membuat gambar gambar persegi menjadi lingkaran sempurna "/
-  
-  
+  border-radius: 40%; /* Trik untuk membuat gambar gambar persegi menjadi lingkaran sempurna */
+}
+. kartu-profil {
+  /* ...kode dari slide sebelumnya ... */
+  text-align: center; /* menengahkan semua teks di dalam kartu */
+}
